@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "user": "doggo", "id": "1", "image": "beeye/public/dogo.jpg" },
+    { "user": "catto", "id": "2", "image": "beeye/public/catto.jpg" },
+    { "user": "horsey", "id": "3", "image": "beeye/public/horsey.jpg" }
+  ]
+}
